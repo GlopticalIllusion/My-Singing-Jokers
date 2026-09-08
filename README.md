@@ -1,0 +1,1 @@
+My Singing Jokers is a content mod for Balatro inspired by the My Singing Monsters franchise. It features a Qualatro-style music system, that allows for many of the Jokers in the mod to add their own sound to the background music.
