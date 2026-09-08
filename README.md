@@ -8,9 +8,12 @@ A wiki page will be created soon, and will be linked from here.
 
 # Current content as of the latest version (v0.1.0)
 
-• 51 Jokers (+2 when other mods are installed)
-• 12 Boss Blinds
-• 23 music layers
+• 51 Jokers (+2 when other mods are installed)  
+
+• 12 Boss Blinds  
+
+• 23 music layers  
+
 • A mute button for individual Jokers
 
 # Credits
