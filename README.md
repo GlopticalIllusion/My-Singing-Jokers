@@ -6,11 +6,11 @@ My Singing Jokers is a content mod for Balatro inspired by the My Singing Monste
 
 A wiki page will be created soon, and will be linked from here.
 
-# Current content as of the latest version (v0.1.0)
+# Current content as of the latest version (v0.2.0)
 
-• 51 Jokers (+2 when other mods are installed)  
+• 52 Jokers (+2 when other mods are installed)  
 • 12 Boss Blinds  
-• 23 music layers  
+• 25 music layers  
 • A mute button for individual Jokers
 
 # Credits
