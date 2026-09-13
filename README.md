@@ -4,13 +4,13 @@
 
 My Singing Jokers is a content mod for Balatro inspired by the My Singing Monsters franchise. It features a Qualatro-style music system, that allows for many of the Jokers in the mod to add their own sound to the background music. This mod aims to achieve something akin to vanilla-style balance whilst expanding upon many aspects of the game in ways that feel distinctly MSM.
 
-A wiki page will be created soon, and will be linked from here.
+This mod has a wiki page! Check it out: https://balatromods.miraheze.org/wiki/My_Singing_Jokers
 
-# Current content as of the latest version (v0.2.0)
+# Current content as of the latest version (v0.2.1)
 
 • 52 Jokers (+2 when other mods are installed)  
 • 12 Boss Blinds  
-• 25 music layers  
+• 23 music layers  
 • A mute button for individual Jokers
 
 # Credits
